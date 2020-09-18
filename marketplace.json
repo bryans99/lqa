@@ -1,0 +1,22 @@
+{
+  "label": "LQA",
+  "category_label": "Models",
+  "branding": {
+    "image_uri": "https://marketplace-api.looker.com/app-icons/icon_lqa.svg",
+    "tagline": "LQA",
+    "brand_color": "#24B25F",
+    "badge": "Beta"
+  },
+  "constants": {
+    "CONNECTION_NAME": {
+      "label": "Connection Name",
+      "value_constraint": "connection"
+    }
+  },
+  "models": [
+    {
+      "name": "lqa",
+      "connection_constant": "CONNECTION_NAME"
+    }
+  ]
+}
