@@ -1,6 +1,6 @@
-project_name: "lqa"
+project_name: "looker-qa"
 
-application: lqa {
+application: looker-qa {
   label: "LQA"
   url: "https://open.extension.looker.com/lqa/bundle.js"
 }

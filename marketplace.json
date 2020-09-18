@@ -1,11 +1,10 @@
 {
-  "label": "LQA",
+  "label": "Looker Q&A",
   "category_label": "Models",
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/app-icons/icon_lqa.svg",
     "tagline": "LQA",
-    "brand_color": "#24B25F",
-    "badge": "Beta"
+    "brand_color": "#24B25F"
   },
   "constants": {
     "CONNECTION_NAME": {
