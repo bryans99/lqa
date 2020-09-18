@@ -1,7 +1,7 @@
 project_name: "looker-qa"
 
 application: looker-qa {
-  label: "~Looker Q&A"
+  label: "Looker Q&A"
   url: "https://open.extension.looker.com/lqa/bundle.js"
   entitlements: {      
   }
