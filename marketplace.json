@@ -14,7 +14,7 @@
   },
   "models": [
     {
-      "name": "lqa",
+      "name": "looker-qa",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
