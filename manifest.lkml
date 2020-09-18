@@ -6,3 +6,8 @@ application: looker-qa {
   entitlements: {      
   }
 }
+
+constant: CONNECTION_NAME {
+  value: "choose-connection"
+  export: override_required
+}
